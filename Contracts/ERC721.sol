@@ -169,7 +169,7 @@ abstract contract ERC721 is IERC165, IERC721, IERC721TokenReceiver, IERC721Metad
 
     function setRoyaltyPercent(uint256 _tokenId, uint256 _percent) external exist(_tokenId) virtual {
         require(_isApprovedForAll(ownerOf_[_tokenId], _msgSender()) || _msgSender() == ownerOf_[_tokenId], "ERROR: would from the owner or approved");
-        if(_percent < 10 && _percent >= 0){
+        if(_percent < 1000 && _percent >= 0){
             royalties_[_tokenId] = _percent;
             emit RoyalityChange(_tokenId, _percent, block.timestamp);
         } else {
