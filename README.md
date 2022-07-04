@@ -33,7 +33,6 @@ suggestion :
 split each functional point to use in your projects. absolutly for less gas.
         
 ---
-##
 
 <p align="right"> 
   <a href="https://github.com/mosi-sol/nft-erc721" target="blank">
