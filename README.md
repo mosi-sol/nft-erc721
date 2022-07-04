@@ -38,6 +38,8 @@ suggestion :
                     
 split each functional point to use in your projects. absolutly for less gas.
         
+### need to fix:
+- `line 163` from ERC721.sol  -->  _reciver = creator {owner}
 ---
 
 <p align="right"> 
