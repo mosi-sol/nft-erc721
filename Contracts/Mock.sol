@@ -12,7 +12,7 @@ contract NFT is ERC721 {
         uint256 __globalRoyality
     ) ERC721(__name, __symbol, __globalRoyality) {
         count = 0;
-        __globalRoyality = 10;
+        __globalRoyality = 1000;
     }
 
     // this important for market places + owner funcions
