@@ -1,4 +1,4 @@
-# nft-erc721
+# NFT : ERC-721
 **fully functional erc-721 from scratch**
 #
 
