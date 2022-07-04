@@ -64,8 +64,8 @@ abstract contract ERC721 is IERC165, IERC721, IERC721TokenReceiver, IERC721Metad
         name_ = __name;
         symbol_ = __symbol;
         tokenId_ = 0;
-        if(__globalRoyality <= 10){globalRoyality_ = __globalRoyality;}
-        __globalRoyality <= 10 ? globalRoyality_ = __globalRoyality : globalRoyality_ = 0;
+        if(__globalRoyality <= 1000){globalRoyality_ = __globalRoyality;}
+        __globalRoyality <= 1000 ? globalRoyality_ = __globalRoyality : globalRoyality_ = 0;
     }
 
     // register =====================================================================
