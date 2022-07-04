@@ -1,6 +1,10 @@
 # nft-erc721
 **fully functional erc-721 from scratch**
----
+#
+
+- core is `Contracts/ERC721.sol`
+- for test run `Contracts/Mock.sol`
+
 ```
    ================================================
    
