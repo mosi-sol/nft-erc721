@@ -4,7 +4,7 @@
 
 - core is `Contracts/ERC721.sol`
 - for test run `Contracts/Mock.sol`
-- or testing by use [this](https://github.com/mosi-sol/nft-erc721/blob/main/NFT-ERC721-Flat.sol) - mock after `line 621`
+- or testing by use [this](https://github.com/mosi-sol/nft-erc721/blob/main/NFT-ERC721-Flat.sol) - mock after `line 621` -> abi like [this](https://github.com/mosi-sol/nft-erc721/blob/main/abi.json) 
 
 #
 
