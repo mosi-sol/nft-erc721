@@ -4,6 +4,7 @@
 
 - core is `Contracts/ERC721.sol`
 - for test run `Contracts/Mock.sol`
+- or testing by use [this](https://github.com/mosi-sol/nft-erc721/blob/main/NFT-ERC721-Flat.sol) - mock after `line 621`
 
 #
 
@@ -22,7 +23,7 @@ github :        mosi-sol
 ##             
 fully functional NFT ERC721
             
-how to use : following this folder -> mock.sol
+how to use : following contracts folder -> mock.sol
     
 suggestion : 
                     
