@@ -11,6 +11,8 @@
 
 #
 
+<div align="center"> 
+  
 ::: ERC721 :::
                      
 creator :       mosi
@@ -22,7 +24,9 @@ email :         mosipvp @gmail
 linkedin :      moslem-abbasi
             
 github :        mosi-sol
-            
+  
+</div>      
+
 ##             
 fully functional NFT ERC721
             
